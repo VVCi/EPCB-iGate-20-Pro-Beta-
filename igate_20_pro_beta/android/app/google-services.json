@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339339583780",
+    "firebase_url": "https://igate-20-pro.firebaseio.com",
+    "project_id": "igate-20-pro",
+    "storage_bucket": "igate-20-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339339583780:android:9bd134aca97a515c0253b1",
+        "android_client_info": {
+          "package_name": "com.example.igate20probeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339339583780-upnqpfappt7g9nf8ejp6f5hodl5robec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.igate20probeta",
+            "certificate_hash": "3f3da6694e6a0f16f12909e4e0b10bf2caf40d68"
+          }
+        },
+        {
+          "client_id": "339339583780-k5rop5ogo3eanr2ofkbdfs4mcgs7lhrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB85oXCUTc2p_rBZgxDNEWbOs5EHLE9lhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339339583780-k5rop5ogo3eanr2ofkbdfs4mcgs7lhrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
