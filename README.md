@@ -1,7 +1,7 @@
 EPCB iGate 20 Pro Beta APP
 @Author: EPCB TECH Corp.
 @Date: May, 2020
-@Website: www.epcn.vn
+@Website: www.epcb.vn
 
 @Database: Firebase Database
 @Device: ESP32 WiFi
